@@ -43,7 +43,13 @@ Usuario: admin
 
 Senha: admin
 
-Copie o conteudo desse arquivo "k8s-grafana/grafana-dashboard-kubernetes.json"
+Importe o dashboard do GrafanaLabs (https://grafana.com/grafana/dashboards/12740)
+
+ID: 12740
+
+![Image of Dashboard on GrafanaLabs](/monitoring/k8s-grafana/GrafanaDashboardImg.png)
+
+ou copie o conteudo desse arquivo "k8s-grafana/grafana-dashboard-kubernetes.json"
 e importe no grafana.
 
 
